@@ -1,6 +1,0 @@
-app\AppTeste.class
-com\mycompany\sosmulher\bdnc\PessoaServiceImpl.class
-cadastro\CadastroPessoa.class
-controladores\ControladorPessoa.class
-entidades\Pessoa.class
-interfaces\PessoaService.class
