@@ -17,7 +17,7 @@ import javax.persistence.PersistenceContext;
 @Stateless
 public class CadastroPessoa {
     
-    @PersistenceContext(name = "projeto-bdnc")
+    @PersistenceContext(unitName = "sos_mulher")
     private EntityManager entityManager;
  
     public CadastroPessoa(){
