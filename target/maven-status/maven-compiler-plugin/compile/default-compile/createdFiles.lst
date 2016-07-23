@@ -1,0 +1,6 @@
+br\ifpb\edu\bdnc\sosmulher\cadastro\CadastroPessoa.class
+br\ifpb\edu\bdnc\sosmulher\entidades\Pessoa.class
+br\ifpb\edu\bdnc\sosmulher\service\PessoaServiceImpl.class
+br\ifpb\edu\bdnc\sosmulher\app\AppTeste.class
+br\ifpb\edu\bdnc\sosmulher\controladores\ControladorPessoa.class
+br\ifpb\edu\bdnc\sosmulher\interfaces\PessoaService.class
